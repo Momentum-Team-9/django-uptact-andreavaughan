@@ -16,3 +16,5 @@ class ContactForm(forms.ModelForm):
             'email',
             'birthday',
         ]
+
+
